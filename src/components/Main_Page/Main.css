@@ -1,0 +1,12 @@
+.mainContainer{    
+    padding: 80px 220px 50px  220px;    
+}
+.mainbox{
+    border: 1px solid black;
+    height: 620px;    
+}
+.mainTitle{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight:bolder;
+}
